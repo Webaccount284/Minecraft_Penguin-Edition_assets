@@ -1,0 +1,89 @@
+{
+    "minecraft:stone":
+    {
+        "textures":
+        {
+            "all":1
+        },
+        "opaque":
+        {
+            "north":false,
+            "south":false,
+            "east":false,
+            "west":false,
+            "up":false,
+            "down":false
+        },
+        "model": "default"
+    },
+    "minecraft:grass":
+    {
+        "textures":
+        {
+            "sides":3,
+            "up":0,
+            "down":2
+        },
+        "opaque":
+        {
+            "north":false,
+            "south":false,
+            "east":false,
+            "west":false,
+            "up":false,
+            "down":false
+        },
+        "model": "grass"
+    },
+    "minecraft:dirt":
+    {
+        "textures":
+        {
+            "all":2
+        },
+        "opaque":
+        {
+            "north":false,
+            "south":false,
+            "east":false,
+            "west":false,
+            "up":false,
+            "down":false
+        },
+        "model": "default"
+    },
+    "minecraft:cobblestone":
+    {
+        "textures":
+        {
+            "all": 16
+        },
+        "opaque":
+        {
+            "north":false,
+            "south":false,
+            "east":false,
+            "west":false,
+            "up":false,
+            "down":false
+        },
+        "model": "default"
+    },
+    "minecraft:wooden_planks":
+    {
+        "textures":
+        {
+            "all": 4
+        },
+        "opaque":
+        {
+            "north":false,
+            "south":false,
+            "east":false,
+            "west":false,
+            "up":false,
+            "down":false
+        },
+        "model": "default"
+    }
+}
