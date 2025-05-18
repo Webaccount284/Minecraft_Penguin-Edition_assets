@@ -1,11 +1,11 @@
 {
-    "minecraft:stone":
+    "minecraft:air":
     {
         "textures":
         {
-            "all":1
+            "all": ""
         },
-        "opaque":
+        "transparent":
         {
             "north":false,
             "south":false,
@@ -13,6 +13,23 @@
             "west":false,
             "up":false,
             "down":false
+        },
+        "model": "none"
+    },
+    "minecraft:stone":
+    {
+        "textures":
+        {
+            "all":1
+        },
+        "transparent":
+        {
+            "north":true,
+            "south":true,
+            "east":true,
+            "west":true,
+            "up":true,
+            "down":true
         },
         "model": "default"
     },
@@ -26,12 +43,12 @@
         },
         "opaque":
         {
-            "north":false,
-            "south":false,
-            "east":false,
-            "west":false,
-            "up":false,
-            "down":false
+            "north":true,
+            "south":true,
+            "east":true,
+            "west":true,
+            "up":true,
+            "down":true
         },
         "model": "grass"
     },
@@ -43,12 +60,12 @@
         },
         "opaque":
         {
-            "north":false,
-            "south":false,
-            "east":false,
-            "west":false,
-            "up":false,
-            "down":false
+            "north":true,
+            "south":true,
+            "east":true,
+            "west":true,
+            "up":true,
+            "down":true
         },
         "model": "default"
     },
@@ -60,12 +77,12 @@
         },
         "opaque":
         {
-            "north":false,
-            "south":false,
-            "east":false,
-            "west":false,
-            "up":false,
-            "down":false
+            "north":true,
+            "south":true,
+            "east":true,
+            "west":true,
+            "up":true,
+            "down":true
         },
         "model": "default"
     },
@@ -77,12 +94,12 @@
         },
         "opaque":
         {
-            "north":false,
-            "south":false,
-            "east":false,
-            "west":false,
-            "up":false,
-            "down":false
+            "north":true,
+            "south":true,
+            "east":true,
+            "west":true,
+            "up":true,
+            "down":true
         },
         "model": "default"
     }
