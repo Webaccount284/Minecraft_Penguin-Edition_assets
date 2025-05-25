@@ -5,7 +5,7 @@
         {
             "all": ""
         },
-        "transparent":
+        "opaque":
         {
             "north":false,
             "south":false,
@@ -22,7 +22,7 @@
         {
             "all":1
         },
-        "transparent":
+        "opaque":
         {
             "north":true,
             "south":true,
