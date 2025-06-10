@@ -1,0 +1,8 @@
+{
+    "minecraft:air" : "hitboxDefault":0,
+    "minecraft:stone" : "hitboxDefault":1,
+    "minecraft:grass" : "hitboxDefault":1,
+    "minecraft:dirt" : "hitboxDefault":1,
+    "minecraft:cobblestone" : "hitboxDefault":1,
+    "minecraft:wooden_planks" : "hitboxDefault":1,
+}
